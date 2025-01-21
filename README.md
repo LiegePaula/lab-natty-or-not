@@ -1,16 +1,16 @@
 # IAS Generativas: Evolução e Futuro
 
 ## 📒 Descrição
-Texto sobre A Evolução das IAs Generativas e Previsão do Futuro
+Criação de ebook sobe a evolução das IAs Generativas e previsão do futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Utilização do ChatGPT para criação do texto do conteúdo do texto
+Utilização do ChatGPT para criação do texto.
 
 ## 🧐 Processo de Criação
-Pesquisa sobre A Evolução das IAs Generativas e Previsão do Futuro
+Pesquisa sobre A Evolução das IAs Generativas e Previsão do Futuro.
 
 ## 🚀 Resultados
-Como resultado do projeto segue texto .
+Como resultado do projeto segue texto.
 
 # E-Book: A Evolução das IAs Generativas
 
